@@ -1,0 +1,52 @@
+
+form{width:700px;height:500px; margin:auto; margin-top:50px; padding: 25px;
+background-color: whitesmoke ;font-size: large;}
+h3{text-align: center;}
+label{margin-left:40px;}
+button{color:black;
+    background-color:gold;
+     border-radius: 5px;
+     border: none;
+     width: 60px;
+     height: 35px;
+}
+button:hover{background-color:goldenrod;color:black;font-weight: bolder;}
+
+strong{
+    color: goldenrod;
+    font-size: x-large;
+}
+body{
+    background: #ececec url("./back.png");
+    font-family: "vazir";
+    line-height: 35px;
+}
+
+
+.form{
+    padding: 20px;
+    text-align: right;
+}
+
+
+.fx2{
+    color: rgb(145, 107, 11);
+    background-color: rgb(155, 153, 153);
+    
+}
+p.fx2{
+    width: 400px;
+    height: 50px;
+    padding: 30px;
+    font-size: 12px;
+    display: inline-block;
+
+}
+
+
+.fx2 img{
+    width: 50px;
+    height: 50px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
